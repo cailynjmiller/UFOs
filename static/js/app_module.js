@@ -33,7 +33,7 @@ function handleClick(){
     };
 
 
-// rebuild the table using the filtered data
+// rebuild the table using the filtered
 // if no date was entered it would just be the original tableData
     buildTable(filteredData)
 }
